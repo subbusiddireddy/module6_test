@@ -1,0 +1,17 @@
+.main-wrapper {
+	margin-top: 20px;
+    background-color: rgba(229, 224, 224, 0.96);
+}
+
+.page-title {
+	text-align: center;
+    background-color: black;
+    color: white;
+    padding : 5px;
+}
+
+.registration-form {
+	width: 800px;
+    margin: auto;
+    
+}
